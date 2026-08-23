@@ -1,0 +1,60 @@
+MISSING BEFORE PRODUCTION AGENT
+
+A) Execution SOPs
+- Client intake / proposal / scope
+- Discovery session SOP
+- Sitemap + page brief SOP
+- UX/design SOP
+- Content production SOP
+- Development SOP
+- Code review SOP
+- QA SOP
+- Deployment / DNS / hosting SOP
+- Analytics / SEO / tracking SOP
+- Post-launch support SOP
+
+B) Standards
+- Brand/design system
+- Tech stack preferences and forbidden choices
+- Coding conventions / repo structure
+- Accessibility standard
+- SEO baseline
+- Performance baseline
+- Security baseline
+- Browser/device support
+
+C) Templates
+- Discovery report
+- Strategy report
+- Sitemap
+- Page brief
+- Content brief
+- Requirement spec
+- Technical spec
+- QA checklist/report
+- Launch checklist
+- Client update / approval messages
+
+D) Golden Examples
+At least 3-5 real or high-quality sample projects from discovery to final delivery, including why decisions were made and what changed.
+
+E) Tool/Access Map
+- Where customer communication happens
+- Where files live
+- Project management
+- Design tool
+- Git/repository
+- Hosting/deployment
+- Domain/DNS
+- Analytics/Search Console
+- Forms/CRM/email
+- Image/content sources
+
+F) Business Rules
+- Pricing / packages
+- Scope boundaries
+- Revision policy
+- SLA / timeline rules
+- Change request rules
+- Ownership / handoff
+- Maintenance/support rules
